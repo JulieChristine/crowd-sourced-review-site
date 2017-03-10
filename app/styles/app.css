@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Serif|Raleway');
+
+body{
+  /*background: url('https://images.pexels.com/photos/176103/pexels-photo-176103.jpeg?w=940&h=650&auto=compress&cs=tinysrgb') no-repeat;*/
+  font-family: 'Raleway', sans-serif;
+}
+
+button{
+color: #009688;
+ background: #fff;
+ border: 2px solid #009688;
+ font-size: 14px;
+ padding: 7px 10px;
+ font-weight: normal;
+ margin: 6px 0;
+ margin-right: 12px;
+ display: inline-block;
+ text-decoration: none;
+ font-family: 'Open Sans', sans-serif;
+ min-width: 120px;
+}
+
+
+.titles{
+  text-align: center;
+  color: #009688;
+  margin-bottom: 20px; 
+}
+
+/********* nav bar *******/
+
+.navbar-header{
+  color: #000;
+}
+.navbar-right li{
+  color:#000;
+}
+.navbar-nav > li > a{
+  color: #000;
+}
+
+/******** Images *********/
+
+img{
+  width:250px;
+  height: 250px;
+  border: 1px solid #eee;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+.img-style{
+margin-left:30px;
+}
+.occupation-listing{
+  color:#000;
+  font-size: 12px;
+  margin-left: 30px;
+}
+
+
+/********* display *******/
+
+/** occupation-tile **/
+.display-activity{
+
+}
+
+/** google-map **/
+.map-display {
+    height: 200px;
+    width: 400px;
+  }

@@ -1,0 +1,28 @@
+<div class="occupation-txt">
+  <div class="titles">
+    Located in {{occupation.area}}, get more information about {{occupation.name}}:
+  </div>
+  <div class=occupation-listing>
+    Type of activity: {{occupation.type}}<br>
+    Description: {{occupation.description}}<br>
+    Cost: HKD {{occupation.cost}}<br>
+  </div>
+<p><img src={{occupation.image}} alt={{occupation.name}}></p>
+</div>
+
+<div>
+  <h4>Map of {{occupation.name}}'s: {{occupation.type}}</h4>
+  {{google-map occupation=occupation}}
+</div>
+
+<div class="titles">
+  <h4>What people say about {{occupation.name}}</h4>
+</div>
+
+<ul>
+  {{#each sortedReviews as |review|}}
+    {{review-tile review=review destroyReview="destroyReview"}}
+  {{/each}}
+</ul>
+
+<button {{action 'delete' occupation}}>Delete Activity</button>

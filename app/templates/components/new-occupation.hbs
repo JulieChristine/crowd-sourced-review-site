@@ -1,0 +1,53 @@
+{{#if addNewOccupation}}
+<div class="titles">
+<h1>New Activity</h1>
+</div>
+<div>
+  <form>
+    <div class="form-group">
+      <label for="name">Name</label>
+      {{input value=name id="name"}}
+    </div>
+
+    <div class="form-group">
+      <label for="area">Area</label>
+      {{input value=area id="area"}}
+    </div>
+
+    <div class="form-group">
+      <label for="type">Type</label>
+      {{input value=type id="type"}}
+    </div>
+
+    <div class="form-group">
+      <label for="description">Description</label>
+      {{input value=description id="description"}}
+    </div>
+
+    <div class="form-group">
+      <label for="image">Image URL</label>
+      {{input value=image id="image"}}
+    </div>
+
+    <div class="form-group">
+      <label for="cost">Cost of this activity</label>
+      {{input value=cost id="cost"}}
+    </div>
+
+    <div class="form-group">
+      <label for="latitude">Latitude location</label>
+      {{input value=latitude id="latitude"}}
+    </div>
+
+    <div class="form-group">
+      <label for="longitude">Longitude location</label>
+      {{input value=longitude id="longitude"}}
+    </div>
+
+
+    <button {{action 'saveOccupation'}}>Save</button>
+  </form>
+</div>
+{{else}}
+  <button {{action 'occupationFormShow'}}>New Occupation</button>
+{{/if}}

@@ -1,0 +1,50 @@
+{{#if updateOccupationForm}}
+  <h4>Update {{occupation.name}}'s {{occupation.type}}</h4>
+  <div>
+    <form>
+      <div class="form-group">
+        <label for="name">Name</label>
+        {{input value=name id="name" placeholder=occupation.name}}
+      </div>
+
+      <div class="form-group">
+        <label for="area">Area</label>
+        {{input value=area id="area" placeholder=occupation.area}}
+      </div>
+
+      <div class="form-group">
+        <label for="type">Type</label>
+        {{input value=type id="type" placeholder=occupation.type}}
+      </div>
+
+      <div class="form-group">
+        <label for="description">Description</label>
+        {{input value=description id="description" placeholder=occupation.description}}
+      </div>
+
+      <div class="form-group">
+        <label for="image">Image URL</label>
+        {{input value=image id="image" placeholder=occupation.image}}
+      </div>
+
+      <div class="form-group">
+        <label for="cost">Cost of the activity</label>
+        {{input value=cost id="cost" placeholder=occupation.cost}}
+      </div>
+
+      <div class="form-group">
+        <label for="latitude">Latitude location</label>
+        {{input value=latitude id="latitude" placeholder=occupation.latitude}}
+      </div>
+
+      <div class="form-group">
+        <label for="longitude">Longitude location</label>
+        {{input value=longitude id="longitude" placeholder=occupation.longitude}}
+      </div>
+
+      <button {{action 'update' occupation}}>Save</button>
+    </form>
+  </div>
+{{else}}
+  <button {{action 'updateOccupationForm'}}>Update</button>
+{{/if}}

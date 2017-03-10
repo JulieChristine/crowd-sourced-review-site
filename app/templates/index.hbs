@@ -1,0 +1,12 @@
+<div class="listing-txt">
+  <h3> Welcome to your awesome activities</h3>
+  <p>We hope you find exactly what you're looking for and will be discovering new activities in Hong Kong</p>
+</div>
+
+<ul>
+  {{#each model.occupations as |occupation|}}
+    {{occupation-popularity occupation}}{{occupation-tile occupation=occupation}} {{occupation-cost occupation}}
+  {{/each}}
+</ul>
+
+{{new-occupation saveOccupation="saveOccupation"}}

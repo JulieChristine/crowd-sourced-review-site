@@ -1,0 +1,83 @@
+{"occupations": [{
+  "name": "Dragon’s Back Ridge",
+  "area": "Shek O Peak",
+  "type": "Hiking",
+  "description": "the Hong Kong Trail: for beginners who still want the views. This is one of the most popular hikes in Hong Kong, and rightly so. As the easiest hike on my list, it is short, simple and incredibly scenic. The best thing about Dragon’s Back is its accessibility – all you have to do is take the MTR to Chai Wan and start walking. You can easily fit this into a morning or afternoon.",
+  "image": "https://shkg.wpengine.com/wp-content/uploads/2013/05/dragons-back-hk.jpeg",
+  "cost":0,
+  "latitude":"22.2271478",
+  "longitude":"114.2399671"
+}, {
+  "name": "Lamma Island",
+  "area": "Lamma Island",
+  "type": "Hiking",
+  "description": "This is a lovely day trip and a relatively easy hike. Most of the paths are paved, there are vistas around every corner, and the villages and beaches have a distinct character (one beach overlooks the power plant). The main trail is one of the only ways to get between the villages on land; since Lamma is not accessible by car, walkers and bikers are everywhere.",
+  "image": "https://3o7tpx32lt6v2lcovs4a53lb-wpengine.netdna-ssl.com/wp-content/uploads/2013/05/sok-kwu-wan-lamma-hk.jpeg",
+  "cost":0,
+  "latitude":"22.2000056",
+  "longitude":"114.1350173"
+}, {
+  "name": "MacLehose Stages 1 & 2",
+  "area": "New Territories",
+  "type": "Hiking",
+  "description": "The MacLehose trail is 100km of hiking that stretches across the New Territories, East to West. Every fall, there is a race that covers the entire 100k – the Oxfam TrailWalker, where you’re allowed 48 hours to get your team from stage 1 to stage 10. If that doesn’t sound like your game, you don’t have to do the full 100k to enjoy MacLehose, so definitely check out a stage or two on your own.The most beautiful tropical sections are stages one and two in Sai Kung. If you begin from stage one, start the day early. Stage one is 10km and stage two is 13km. There are places to catch transport (ferries and mini buses have sporadic service along the trails) but you should plan your transportation times in advance, as the journey to start the hike is long in itself (it can take an hour or more on public transport).",
+  "image": "https://3o7tpx32lt6v2lcovs4a53lb-wpengine.netdna-ssl.com/wp-content/uploads/2013/05/Chek-Keng-boat-maclehose-2-hk.jpg",
+  "cost":0,
+  "latitude":"22.397136",
+  "longitude":"114.3192"
+}, {
+  "name": "Sha Tin to Tai Mei Tuk",
+  "area": "Sha Tin",
+  "type": "Biking",
+  "description": "Starting off gently with one of the most popular routes, this trail takes in beautiful coastal scenery along a dedicated bike path that remains flat throughout. Starting in Sha Tin, it’s easy to locate the bike rental shop in the park (follow the blue signs) and the shop at the end of the route will accept the bike return so you don’t need to cycle back (yay!). This route takes in views of Tolo Harbour and Ma On Shan and is a lovely leisurely day away from the hustle and bustle of city life. From Tai Po it’s possible to continue the ride an extra 8 km to Tai Mei Tuk where you can take in the stunning views of Pat Sin Leung. This idyllic village is also home to Plover Cove reservoir. It’s a picturesque backdrop for a post ride BBQ or a picnic.(Distance: 22km, Time: 4h)",
+  "image": "https://3o7tpx32lt6v2lcovs4a53lb-wpengine.netdna-ssl.com/wp-content/uploads/2017/02/shk-cycling-trails-Tai-Mei-Tuk.jpg",
+  "cost":80,
+  "latitude":"22.3771304",
+  "longitude":"114.1974398"
+}, {
+  "name": "Nam Sang Wai",
+  "area": "New Territories ",
+  "type": "Biking",
+  "description": "This circular route starts and ends at Yuen Ling MTR making it easily accessible. Explore the old village before heading out along the Shan Pui River and the Kam Tin River. The route is simple to follow along the river banks and remains flat throughout. This is great venture up into the heart of the New Territories and an opportunity to explore traditional Hong Kong.(Distance: 8km, Time: 1h)",
+  "image": "https://3o7tpx32lt6v2lcovs4a53lb-wpengine.netdna-ssl.com/wp-content/uploads/2017/02/shk-cycling-trails-Nam-Sang-Wai.jpg",
+  "cost":60,
+  "latitude":"22.4553656",
+  "longitude":"114.0354611"
+}, {
+  "name": "Cheung Chau Island",
+  "area": "Cheung Chau Island",
+  "type": "Biking",
+  "description": "My first thought as I stepped onto Cheung Chau was, “Why haven’t I been here before?” A stunning island with a quaint village feel, this is another great day out to relax away from city life – you’ll feel you’ve come away on holiday in the half hour it takes to get from Central Pier to the Island. The cycling here is just as relaxed and a seaside cycling path runs along the west of the island. If you’re looking for something a bit more strenuous get out of the village and do a full tour of the island, or head to Cheung Po Tsai’s cave on the south of the island.(Time: 2h up to full day)",
+  "image": "https://3o7tpx32lt6v2lcovs4a53lb-wpengine.netdna-ssl.com/wp-content/uploads/2017/02/shk-cycling-cheung-chau.jpg",
+  "cost":100,
+  "latitude":"22.2016179",
+  "longitude":"114.0265007"
+}, {
+  "name": "Government House",
+  "area": "Mid-Levels",
+  "type": "Cultural",
+  "description": "Located in Mid-Levels on Upper Albert Road, this colonial gem was the former official residence of 25 British governors of Hong Kong prior to the handover in 1997. Before Hong Kong’s architecture began scraping the sky, this location provided the building with sweeping harbour views. Built between 1851 and 1855, the building originally had strong Georgian features but was extensively redesigned by engineer Siechi Fujimura during the Japanese occupation of Hong Kong in the Second World War. The wartime renovations included a toning down of European features and the addition of a central tower. In 2005, Government House reverted to its original role when it became home and office of the chief executive of the Hong Kong Special Administrative Region. The splendid gardens of lovely rhododendrons and azaleas are opened for public viewing on special occasions.",
+  "image": "http://www.discoverhongkong.com/eng/images/see-do/culture-heritage/large/1.4.5.1.9-Government-House_03.jpg",
+  "cost":0,
+  "latitude":"22.278446",
+  "longitude":"114.1572199"
+}, {
+  "name": "Flower Market",
+  "area": "Mong Kok",
+  "type": "Street life",
+  "description": "Both cut flowers and growing plants are to be found in the shops on Flower Market Road, while some shops specialize in a particular type or even in a specific genus such as orchids or roses, the majority offer a range of different types seasonally. The best place in Hong Kong to find any type of Flower Shop - Flower Market Road, off Prince Edward Road West, in Mongkok.",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-s/02/7f/f4/6c/flower-market.jpg",
+  "cost":0,
+  "latitude":"22.3252022",
+  "longitude":"114.1719248"
+}, {
+  "name": "Repulse Bay",
+  "area": "Repulse Bay",
+  "type": "Beach",
+  "description": "Hong Kong has a long coastline that is full of twists and turns with many bays and beaches. Many of them are well sheltered by mountains nearby, as Hong Kong is a mountainous place. As a result, large waves seldom appear at the bays, making them suitable for human swimming. However, with the increasing development and urbanisation of Hong Kong, water quality has worsened resulting in the closure of several beaches previously suitable for swimming. These include Approach Beach, Ting Kau Beach, Anglers' Beach, Gemini Beaches, Hoi Mei Wan Beach, Casam Beach and Lido Beach in Tsuen Wan. In 2011, Lido Beach, Casam Beach, Approach Beach and Hoi Mei Wan Beach were reopened following an improvement in water quality.About half of the beaches suitable for swimming in Hong Kong are managed by the Leisure and Cultural Services Department (LCSD), and are officially referred to as gazetted beaches. A number of other beaches are privately owned or not gazetted, but are nonetheless publicly accessible.",
+  "image": "http://static.asiawebdirect.com/m/phuket/portals/hong-kong-hotels-ws/homepage/attractions/repulse-bay/allParagraphs/011/image2/repulse-bay-04.jpg",
+  "cost":0,
+  "latitude":"22.230556",
+  "longitude":"114.186111"
+}]
+}
